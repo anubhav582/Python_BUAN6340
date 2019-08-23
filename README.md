@@ -1,4 +1,4 @@
-# Python_BUAN6340
+# Python BUAN6340 course notebooks
 
 Programming for Data Science course covers many aspects of programming for data science and analytics, including syntax, handling data, data visualization, and implementation of statistical analysis models. 
 
